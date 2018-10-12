@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		31C90D2821705AA300F89314 /* patients in Resources */ = {isa = PBXBuildFile; fileRef = 31C90D2721705AA200F89314 /* patients */; };
 		8D2348A1B92DD8B209042761 /* Pods_patients.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 67C3AE2D56AE8A2A588E77FC /* Pods_patients.framework */; };
 		D310FB2E2122A69E00B07CAC /* RealmSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D310FB2D2122A69E00B07CAC /* RealmSwift.framework */; };
 		D326419B2122FA80004E9059 /* Userdata.swift in Sources */ = {isa = PBXBuildFile; fileRef = D326419A2122FA80004E9059 /* Userdata.swift */; };
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		317ADF6F21468F310054EEEF /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
 		317ADF7021468F310054EEEF /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		31C90D2721705AA200F89314 /* patients */ = {isa = PBXFileReference; lastKnownFileType = folder; name = patients; sourceTree = "<group>"; };
 		53190ABCCFD52174D850E007 /* Pods-patients.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-patients.debug.xcconfig"; path = "Pods/Target Support Files/Pods-patients/Pods-patients.debug.xcconfig"; sourceTree = "<group>"; };
 		67C3AE2D56AE8A2A588E77FC /* Pods_patients.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_patients.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D310FB2D2122A69E00B07CAC /* RealmSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = RealmSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -70,6 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				D3395AD621219F5B00CF03D7 /* patients */,
+				31C90D2721705AA200F89314 /* patients */,
 				D3395AD521219F5B00CF03D7 /* Products */,
 				0E77FE0171D40CBFC880E139 /* Pods */,
 				D57FEE5F897440BC4888DA5C /* Frameworks */,
@@ -171,6 +174,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31C90D2821705AA300F89314 /* patients in Resources */,
 				D3395AE221219F5D00CF03D7 /* LaunchScreen.storyboard in Resources */,
 				D3395ADF21219F5D00CF03D7 /* Assets.xcassets in Resources */,
 				D3395ADD21219F5B00CF03D7 /* Main.storyboard in Resources */,
