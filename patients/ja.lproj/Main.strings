@@ -1,0 +1,72 @@
+
+/* Class = "UIButton"; normalTitle = "登録実行"; ObjectID = "3lz-PK-nUq"; */
+"3lz-PK-nUq.normalTitle" = "登録実行";
+
+/* Class = "UILabel"; text = "アカウント"; ObjectID = "6wr-3Z-pzK"; */
+"6wr-3Z-pzK.text" = "アカウント";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "A3z-Qt-thO"; */
+"A3z-Qt-thO.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "CLF-tQ-ncp"; */
+"CLF-tQ-ncp.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Dej-JL-AQG"; */
+"Dej-JL-AQG.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "新規登録実行"; ObjectID = "EaS-2e-ibI"; */
+"EaS-2e-ibI.normalTitle" = "新規登録実行";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "G0b-Ya-mgy"; */
+"G0b-Ya-mgy.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "新規患者登録"; ObjectID = "HCb-LH-zqI"; */
+"HCb-LH-zqI.text" = "新規患者登録";
+
+/* Class = "UILabel"; text = "年齢"; ObjectID = "LWW-E0-R6G"; */
+"LWW-E0-R6G.text" = "年齢";
+
+/* Class = "UILabel"; text = "才"; ObjectID = "PBK-1K-r39"; */
+"PBK-1K-r39.text" = "才";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qd3-74-E0G"; */
+"Qd3-74-E0G.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "RMn-Q8-bOp"; */
+"RMn-Q8-bOp.normalTitle" = "ログイン";
+
+/* Class = "UILabel"; text = "血圧(下)"; ObjectID = "Xrg-tW-bTd"; */
+"Xrg-tW-bTd.text" = "血圧(下)";
+
+/* Class = "UILabel"; text = "検査情報登録"; ObjectID = "XyK-sH-vXJ"; */
+"XyK-sH-vXJ.text" = "検査情報登録";
+
+/* Class = "UILabel"; text = "性別"; ObjectID = "bAc-Cc-kTh"; */
+"bAc-Cc-kTh.text" = "性別";
+
+/* Class = "UIButton"; normalTitle = "ユーザ追加"; ObjectID = "bdB-Zf-OsP"; */
+"bdB-Zf-OsP.normalTitle" = "ユーザ追加";
+
+/* Class = "UILabel"; text = "血圧(上)"; ObjectID = "dBJ-k9-tJG"; */
+"dBJ-k9-tJG.text" = "血圧(上)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dBv-Od-czf"; */
+"dBv-Od-czf.text" = "Label";
+
+/* Class = "UILabel"; text = "さん"; ObjectID = "kfz-RN-3HX"; */
+"kfz-RN-3HX.text" = "さん";
+
+/* Class = "UILabel"; text = "パスワード"; ObjectID = "lzv-Kq-xxB"; */
+"lzv-Kq-xxB.text" = "パスワード";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "pKC-ZV-I1b"; */
+"pKC-ZV-I1b.text" = "Title";
+
+/* Class = "UILabel"; text = "体重"; ObjectID = "r1F-Pb-oKs"; */
+"r1F-Pb-oKs.text" = "体重";
+
+/* Class = "UILabel"; text = "検査情報"; ObjectID = "sxv-Vl-hPV"; */
+"sxv-Vl-hPV.text" = "検査情報";
+
+/* Class = "UILabel"; text = "名前"; ObjectID = "th9-qu-VEu"; */
+"th9-qu-VEu.text" = "名前";

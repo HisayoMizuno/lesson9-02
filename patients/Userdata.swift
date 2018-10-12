@@ -8,7 +8,7 @@
 
 import Foundation
 import RealmSwift
-//間者データ
+//間者データ-------------------------------------------
 class Userdata: Object {
     @objc dynamic var id = 0
     @objc dynamic var date = Date() //初期登録日
@@ -22,11 +22,13 @@ class Userdata: Object {
     //健康情報データ（検索度に登録）
     let healthData = List<HealthData>()
 }
-//健康情報データ
+//健康情報データ-------------------------------------------
 class HealthData: Object {
     @objc dynamic var nurseid = 0 //登録した看護士ID
     @objc dynamic var date = Date() //検査日
     @objc dynamic var weight = 0
     @objc dynamic var bloodmax = 0
     @objc dynamic var bloodmin = 0
+    
+    
 }

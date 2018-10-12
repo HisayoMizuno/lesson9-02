@@ -260,7 +260,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="57" id="Heh-XU-V7D">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell2" rowHeight="57" id="Heh-XU-V7D">
                                         <rect key="frame" x="0.0" y="28" width="343" height="57"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Heh-XU-V7D" id="O7o-rI-FAA">
@@ -316,6 +316,8 @@
                     <connections>
                         <outlet property="bloodmaxTextField" destination="h9B-V3-i4y" id="jZR-0H-fvm"/>
                         <outlet property="bloodminTextField" destination="fX3-Df-l4a" id="bLd-T8-f83"/>
+                        <outlet property="tableView" destination="qBA-9p-OQ3" id="c8Y-BC-zIY"/>
+                        <outlet property="tableViewuserdata" destination="qBA-9p-OQ3" id="f2e-ZD-88g"/>
                         <outlet property="viewage" destination="dBv-Od-czf" id="uql-Du-DzC"/>
                         <outlet property="viewname" destination="Qd3-74-E0G" id="fUc-oK-2vB"/>
                         <outlet property="viewsex" destination="A3z-Qt-thO" id="57a-6v-0xB"/>
